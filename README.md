@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> hi </title>
+  <title> cube animation.html</title>
   <link rel="stylesheet" href="animation.css">
   <link rel="stylesheet" href="text.css">
 </head>
